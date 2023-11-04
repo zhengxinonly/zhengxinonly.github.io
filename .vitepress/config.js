@@ -4,7 +4,7 @@ const mode = process.argv[process.argv.length - 1]
 
 export default defineConfig({
     title: '正心全栈编程', // 站点标题
-    base:'/zhengxinonly/',
+    base:'/',
     description: '正心的全栈编程笔记 | Python ', // mate 标签 description，多用于搜索引擎抓取摘要
     locales: {
         root: {
