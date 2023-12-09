@@ -12,7 +12,7 @@ showComment: false
 ---
 
 + 👋 我是自媒体名叫正心全栈编程，也可以叫我正心
-+ 🔭 目前是一名在线职业教育工作者，现在就职于青灯教育
++ 🔭 目前是一名在线职业教育工作者
 
 ---
 
@@ -35,8 +35,6 @@ showComment: false
   <img src="https://img.shields.io/badge/-Nginx-47A248?logo=Nginx&logoColor=FFF" alt="Nginx" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Nginx-47A248?logo=Gunicorn&logoColor=FFF" alt="Gunicorn" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-阿里云-FF6A00?logo=Alibaba-Cloud&logoColor=FFF" alt="阿里云" style="display: inline-block;" />&nbsp;
-
-
 </p>
 <p>
   <img src="https://img.shields.io/badge/-Numpy-4dabcf?logo=Numpy&logoColor=FFF" alt="Numpy" style="display: inline-block;" />&nbsp;

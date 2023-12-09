@@ -1,7 +1,7 @@
 // posts.data.js
 import {createContentLoader} from 'vitepress';
 
-const pages = createContentLoader('/(posts|environment)/*.md', {
+const pages = createContentLoader('/(posts|environment)/**/*.md', {
     includeSrc: false, // include raw markdown source?
     render: false,     // include rendered full page HTML?
     excerpt: false,    // include excerpt?

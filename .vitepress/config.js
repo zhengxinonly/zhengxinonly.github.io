@@ -4,7 +4,7 @@ const mode = process.argv[process.argv.length - 1]
 
 export default defineConfig({
     title: '正心全栈编程', // 站点标题
-    base:'/',
+    base: '/',
     description: '正心的全栈编程笔记 | Python ', // mate 标签 description，多用于搜索引擎抓取摘要
     locales: {
         root: {
@@ -19,14 +19,14 @@ export default defineConfig({
     themeConfig: {
         nav: [
             {
-                text: "Home", link: '/posts'
+                text: "首页", link: '/posts'
             },
             {
-                text: "Archives", link: '/archives'
+                text: "归档", link: '/archives'
             },
             {
-                text: "Tags", link: '/tags'
-            }
+                text: "标签", link: '/tags'
+            },
         ],
         sidebar: {},
         socialLinks: [

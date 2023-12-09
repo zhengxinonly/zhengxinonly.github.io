@@ -102,7 +102,7 @@ const current_posts = computed(() => {
 }
 
 .link.active {
-  background: var(--vp-c-text-1);
+  //background: var(--vp-c-text-1);
   color: var(--vp-c-text-inverse-1);
   border: 1px solid var(--vp-c-text-1) !important;
 }
