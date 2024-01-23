@@ -70,3 +70,13 @@ mjx-container {
 mjx-container > svg {
     margin: auto;
 }
+
+em {
+    color: blue;
+    font-style: normal;
+}
+
+em > strong {
+    color: red;
+    font-weight: normal !important;
+}
