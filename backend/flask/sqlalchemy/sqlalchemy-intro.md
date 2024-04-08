@@ -6,7 +6,7 @@ Object-Relational Mapping，把关系数据库的表结构映射到对象上。�
 
 ![orm](https://images.zhengxinonly.com/zhengxin_notes/images/backend/flask/sqlalchemy/assets/orm.png)
 
-下面是一个关系模型与Python对象之间的映射关系：
+下面是一个关系模型与 Python 对象之间的映射关系：
 
 - table --> class : 表映射为类
 - row --> object : 行映射为实例
